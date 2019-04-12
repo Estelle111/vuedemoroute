@@ -1,29 +1,14 @@
 # demoroot
+**After 2 months and 15 days of training
 
-## Project setup
-```
-npm install
-```
+## Description
+Testing router method
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tools
+* vue
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## During
+BeCode training, 2019
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+Estelle Mol
