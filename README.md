@@ -1,5 +1,5 @@
 # demoroot
-**After 2 months and 15 days of training**
+**After 2 months and 7 days of training**
 
 ## Description
 Testing router method
